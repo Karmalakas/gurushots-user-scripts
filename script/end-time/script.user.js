@@ -4,8 +4,8 @@
 // @namespace    http://karmalakas.lt/
 // @version      1.15.0
 // @author       Karmalakas
-// @updateURL    https://github.com/Karmalakas/gurushots-user-scripts/blob/main/script/end-time/script.user.js
-// @downloadURL  https://github.com/Karmalakas/gurushots-user-scripts/blob/main/script/end-time/script.user.js
+// @updateURL    https://github.com/Karmalakas/gurushots-user-scripts/raw/refs/heads/main/script/end-time/script.user.js
+// @downloadURL  https://github.com/Karmalakas/gurushots-user-scripts/raw/refs/heads/main/script/end-time/script.user.js
 // @supportURL   https://github.com/Karmalakas/gurushots-user-scripts/issues
 // @match        https://gurushots.com/*
 // @require      http://code.jquery.com/jquery-3.5.1.slim.min.js

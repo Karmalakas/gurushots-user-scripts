@@ -4,8 +4,8 @@
 // @namespace    http://karmalakas.lt/
 // @version      1.1.0
 // @author       Karmalakas
-// @updateURL    https://github.com/Karmalakas/gurushots-user-scripts/blob/main/script/mini-game-info/script.user.js
-// @downloadURL  https://github.com/Karmalakas/gurushots-user-scripts/blob/main/script/mini-game-info/script.user.js
+// @updateURL    https://github.com/Karmalakas/gurushots-user-scripts/raw/refs/heads/main/script/mini-game-info/script.user.js
+// @downloadURL  https://github.com/Karmalakas/gurushots-user-scripts/raw/refs/heads/main/script/mini-game-info/script.user.js
 // @supportURL   https://github.com/Karmalakas/gurushots-user-scripts/issues
 // @match        https://gurushots.com/*
 // @run-at       document-idle
