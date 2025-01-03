@@ -17,11 +17,11 @@ Each script in this repository add some functionality to Gurushots.com page
 
 More details on each script can be found on their specific folders:
 
-- [Boost Notifier](blob/main/script/boost-notifier)
-- [End Time](blob/main/script/end-time)
-- [Grayscale gauges](blob/main/script/gayscale-gauges)
-- [Mini-game info](blob/main/script/mini-game-info)
-- [Team Points](blob/main/script/team-points)
+- [Boost Notifier](script/boost-notifier)
+- [End Time](script/end-time)
+- [Grayscale gauges](script/gayscale-gauges)
+- [Mini-game info](script/mini-game-info)
+- [Team Points](script/team-points)
 
 ---
 
