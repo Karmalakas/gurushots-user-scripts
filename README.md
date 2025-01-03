@@ -15,14 +15,14 @@ Each script in this repository add some functionality to Gurushots.com page
 > If later TM fails to update script, just go to _`@updateURL`_ you see at the top of a script. This should trigger the
 > update in a new window with TM open
 
-More details on each script can be found on:
+More details on each script can be found on their specific folders:
 
-- End Time
-- Boost Notifier
-- Grayscale gauges
-- Team Points
-- Mini game info
+- [Boost Notifier](blob/main/script/boost-notifier)
+- [End Time](blob/main/script/end-time)
+- [Grayscale gauges](blob/main/script/gayscale-gauges)
+- [Mini-game info](blob/main/script/mini-game-info)
+- [Team Points](blob/main/script/team-points)
 
 ---
 
-Any questions or suggestions are welcome.
+Any questions or suggestions are welcome
