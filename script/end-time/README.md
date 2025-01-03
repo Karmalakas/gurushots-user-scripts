@@ -6,10 +6,11 @@ based on your operating system time and add an element with that end time.
 
 > [!NOTE]  
 > There was one case reported, when AdBlocker on Opera browser prevented script from displaying time
-> in the Upcoming challenges page
+> on the Upcoming challenges page
 
 > [!INFO]  
-> Old script with comments can be found on [this gist](https://gist.github.com/Karmalakas/25910e649f2feb26e4e8298af938a09e)
+> Old script with comments can be found
+> on [this gist](https://gist.github.com/Karmalakas/25910e649f2feb26e4e8298af938a09e)
 
 ---
 

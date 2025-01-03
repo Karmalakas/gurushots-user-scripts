@@ -11,7 +11,7 @@
 // @run-at       document-idle
 // ==/UserScript==
 
-(function() {
+(function () {
     'use strict';
 
     var mutationObserver = window.MutationObserver || window.WebKitMutationObserver || window.MozMutationObserver;

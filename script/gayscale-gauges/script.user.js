@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name         GuruShots grayscale fill gauges
 // @description  Make all gauges on GuruShots grayscale
@@ -13,7 +12,7 @@
 // @grant        GM_addStyle
 // ==/UserScript==
 
-(function() {
+(function () {
     'use strict';
 
     GM_addStyle('' +
