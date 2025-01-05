@@ -2,12 +2,12 @@
 // @name         GuruShots team points
 // @description  Show team points based on current vote count in a team battle
 // @namespace    http://karmalakas.lt/
-// @version      1.1.0
+// @version      1.1.1
 // @author       Karmalakas
 // @updateURL    https://github.com/Karmalakas/gurushots-user-scripts/raw/refs/heads/main/script/team-points/script.user.js
 // @downloadURL  https://github.com/Karmalakas/gurushots-user-scripts/raw/refs/heads/main/script/team-points/script.user.js
 // @supportURL   https://github.com/Karmalakas/gurushots-user-scripts/issues
-// @match        https://gurushots.com/teams/match
+// @match        https://gurushots.com/*
 // @run-at       document-idle
 // @grant        GM_addStyle
 // ==/UserScript==
