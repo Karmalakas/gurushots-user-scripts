@@ -2,7 +2,7 @@
 // @name         GuruShots team points
 // @description  Show team points based on current vote count in a team battle
 // @namespace    http://karmalakas.lt/
-// @version      1.2.0
+// @version      1.2.1
 // @author       Karmalakas
 // @updateURL    https://github.com/Karmalakas/gurushots-user-scripts/raw/refs/heads/main/script/team-points/script.user.js
 // @downloadURL  https://github.com/Karmalakas/gurushots-user-scripts/raw/refs/heads/main/script/team-points/script.user.js
@@ -72,7 +72,7 @@
             );
         }
 
-        processData(data);
+        processData([...data]);
         addDiff(
             matchHeader.querySelector(':scope > app-ng-image-component.match-active-header__vs'),
             data[0].votes,
